@@ -10,17 +10,17 @@
 ### 1. 📦 Optimización de Last Mile: Análisis OTIF
 **Herramientas:** `Excel (Power Query)` | `Looker Studio` | `Gestión de KPIs`
 Análisis de cumplimiento de entregas y gestión de devoluciones. Identificación de cuellos de botella geográficos y causas raíz de retrasos operativos.
-* [Ver Proyecto Completo]()
+* [Ver Proyecto Completo](https://github.com/Laura-Data-SupplyChain/last-mile-otif-analysis.git)
 
 ### 2. ✈️ Logistics Analytics: Control de Carga Aérea
 **Herramientas:** `Power BI (DAX)` | `Vendor Scoring` | `Análisis de Riesgo`
 Modelo de monitoreo para importaciones aéreas con un índice de desempeño (Scoring) para calificar aerolíneas basado en cumplimiento financiero y temporal.
-* [Ver Proyecto Completo]()
+* [Ver Proyecto Completo](https://github.com/Laura-Data-SupplyChain/air-cargo-performance-dax.git)
 
 ### 3. 🌍 E-commerce Tracking & Shipping: Operaciones Globales
 **Herramientas:** `Advanced Power BI` | `Lead Time Analysis` | `SLA Monitoring`
 Gestión de visibilidad end-to-end para e-commerce transfronterizo. Medición de DOT (Delivery On Time) y análisis de incidencias en Sellers internacionales.
-* [Ver Proyecto Completo]()
+* [Ver Proyecto Completo](https://github.com/Laura-Data-SupplyChain/ecommerce-shipping-tracking.git)
 
 ---
 
